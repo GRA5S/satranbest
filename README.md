@@ -26,7 +26,7 @@ The editor snapshot is in `breadboard-project.json`.
 
 ## Bill of Materials
 
-- Kit parts are listed in the editor schematic.
+- breadboard-full: 1
 
 
 ## Firmware
