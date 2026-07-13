@@ -2,11 +2,21 @@
 
 
 
-steandnebatsrdggdfdgfsgf
+![satranbest](screenshot.png)
 
 
 > Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1 hours of work.
 
+
+
+## What It Does
+
+steandnebatsrdggdfdgfsgf
+
+
+## How It Works
+
+The circuit is captured in `breadboard-project.json`, and the firmware that runs it is in the `firmware/` folder.
 
 
 ## How To Use It
@@ -16,9 +26,8 @@ asdfasdf afsd adf asdafs d
 
 ## Demo
 
-- **Try it:** [https://breadboard.hackclub.com/share/47](https://breadboard.hackclub.com/share/47)
-
-![satranbest screenshot](/api/uploads/project-screenshots/kaQSda5jWQxMqvCAZCyO3st1latlVnBR/47/6ba43750-17eb-48c7-a792-64a23ce6e5e8.png)
+- **Simulate it live:** [https://breadboard.hackclub.com/share/47](https://breadboard.hackclub.com/share/47), runs the firmware in the Breadboard simulator
+- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/47/](https://taniwankenobi.github.io/breadboard-plays/p/47/)
 
 
 ## Schematic
@@ -28,7 +37,9 @@ The editor snapshot is in `breadboard-project.json`.
 
 ## Bill of Materials
 
-- breadboard-full: 1
+| Part | Quantity |
+| --- | --- |
+| breadboard-full | 1 |
 
 
 ## Firmware
